@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1588349711 source:c:\users\mihai radu\desktop\p1\algoritm1_c\generator_date.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1589979634 source:c:\users\mihai radu\desktop\p1\algoritm1_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"utils.h"
+
+1588348946 c:\users\mihai radu\desktop\p1\algoritm1_c\sort.h
+	"utils.h"
+
+1589900090 c:\users\mihai radu\desktop\p1\algoritm1_c\utils.h
+	<stdio.h>
+
+1588348945 source:c:\users\mihai radu\desktop\p1\algoritm1_c\sort.c
+	<stdio.h>
+	<stdlib.h>
+	"sort.h"
+
+1589972591 source:c:\users\mihai radu\desktop\p1\algoritm1_c\utils.c
+	<stdio.h>
+	<stdlib.h>
+	"utils.h"
+

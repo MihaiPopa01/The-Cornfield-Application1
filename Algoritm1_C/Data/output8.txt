@@ -1,0 +1,6 @@
+Numarul minim de tulpini eliminate: 9968 
+
+Coordonatele cocenilor ramasi sunt: 
+0 915 1830 2745 3660 4575 5491 6408 7323 8238 9153 10068 10984 11899 
+
+Durata testului 8 : 0.0000000000000s

@@ -1,4 +1,4 @@
-# Lanul de porumb.
+# Lanul de porumb
 
   Intr-un lan de porumb, cantitatea de porumb ce va
 putea fi recoltata depinde de distantele dintre fiecare doi coceni consecutivi

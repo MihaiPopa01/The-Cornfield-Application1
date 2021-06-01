@@ -1,0 +1,3 @@
+IMPOSIBIL
+
+Durata testului 2 : 0.0039889812469s

@@ -1,0 +1,6 @@
+Numarul minim de tulpini eliminate: 46 
+
+Coordonatele cocenilor ramasi sunt
+0 38 80 
+
+Durata testului 8 : 0.0312371253967s

@@ -1,0 +1,6 @@
+Numarul minim de tulpini eliminate: 25 
+
+Coordonatele cocenilor ramasi sunt
+5 56 97 
+
+Durata testului 1 : 0.015625s

@@ -1,29 +1,18 @@
-# Foobar
+# Lanul de porumb.
 
-Foobar is a Python library for dealing with word pluralization.
+ˆIntr-un lan de porumb, cantitatea de porumb ce va
+putea fi recoltat ̆a depinde de distant ̧ele dintre fiecare doi coceni consecutivi
+aflat ̧i pe acela ̧si rˆand. Dac ̆a aceast ̆a valoare este mai mic ̆a decˆat o limit ̆a
+minim ̆a prestabilit ̆a d atunci recolta nu va mai fi optim ̆a deoarece porumbii
+nu se vor mai putea dezvolta corespunz ̆ator. Din acest motiv un agricultor
+trebuie s ̆a elimine o parte din porumbii de pe acela ̧si rˆand astfel ˆıncˆat
+distant ̧a dintre oricare doi coceni succesivi s ̆a fie cel put ̧in d. Se consider ̆a
+c ̆a porumbii au fost plantat ̧i pe un singur rˆand. Totodat ̆a, agricultorul
+va trebui s ̆a elimine cˆat mai put ̧ini coceni deoarece prin eliminarea unui
+cocean product ̧ia se va mic ̧sora. Se cunosc: i) distant ̧a minim ̆a care trebuie
+p ̆astrat ̆a ˆıntre oricare doi coceni consecutivi; ii) coordonatele cocenilor
+plantat ̧i pe acela ̧si rˆand. S ̆a se determine: i) num ̆arul minim de tulpini
+care trebuie eliminate astfel ˆıncˆat s ̆a se respecte distant ̧a minim ̆a ˆıntre
+doi coceni consecutivi; ii) coordonatele cocenilor care trebuie p ̆astrat ̧i.
+Implementat ̧i doi algoritmi diferit ̧i.
 
-## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
-
-## Usage
-
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)

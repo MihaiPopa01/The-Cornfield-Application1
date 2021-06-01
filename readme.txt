@@ -1,4 +1,4 @@
-  Structura folderului P1 este urmatoarea:
+  Structura aplicatiei este urmatoarea:
 
 - Algoritm1_C -> contine implementarea algoritmului 1 in limbajul C
 - Algoritm1_Py -> contine implementarea algoritmului 1 in limbajul Python

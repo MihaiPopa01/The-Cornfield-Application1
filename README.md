@@ -1,6 +1,6 @@
 # Lanul de porumb.
 
-ˆIntr-un lan de porumb, cantitatea de porumb ce va
+  Intr-un lan de porumb, cantitatea de porumb ce va
 putea fi recoltata depinde de distantele dintre fiecare doi coceni consecutivi
 aflati pe acelasi rand. Daca aceasta valoare este mai mica decat o limita
 minima prestabilita d atunci recolta nu va mai fi optima deoarece porumbii
